@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@sisyphus.js/generator": "^0.0.1-alpha.12",
-    "commander": "^6.0.0"
+    "commander": "^8.0.0"
   },
   "devDependencies": {
     "@types/node": "^15.12.5"
